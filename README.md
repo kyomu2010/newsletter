@@ -1,2 +1,2 @@
 # newsletter
-A simple project to demo use of Less
+A simple website to demo use of Less
